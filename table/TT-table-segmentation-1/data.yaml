@@ -1,0 +1,12 @@
+names:
+- table
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: inst-seg-table
+  url: https://universe.roboflow.com/iib-project/inst-seg-table/dataset/1
+  version: 1
+  workspace: iib-project
+test: ../test/images
+train: train/images
+val: valid/images
